@@ -6,4 +6,4 @@ Requirements:
 Python - Version 3.9 /
 pip install requests /
 pip install json /
-pip install pandas /
+pip install pandas
